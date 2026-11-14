@@ -18,4 +18,4 @@ With my background in business, data, and AI engineering, I want to bring techni
 - Been a music producer for 4.5 years
 - Played the tenor saxophone and now learning the electric guitar
 - I speak english, creole, and french (b1)
-- Hobbies: gym, movies, trying new things/meeting new people
+- I love going to the gym, watching movies, trying new things, and meeting new people
