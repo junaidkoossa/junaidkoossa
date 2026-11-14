@@ -4,7 +4,7 @@ I'm Junaid, a technical product marketer based in Toronto
 
 I implement AI and data into GTM workflows to improve customer targeting, lead response rates, and pipeline efficiency
 
-With my background in data, programming and AI engineering, I want to bring technical execution to a marketing team at a fast-paced tech company
+With my background in business, data, and AI engineering, I want to bring technical execution to a marketing team at a fast-paced tech firm
 
 gtm & automation: clay, n8n, make, hubspot, rest apis
 
