@@ -15,7 +15,7 @@ With my background in business, data, and AI engineering, I want to bring techni
 **Design & marketing:** figma, photoshop, premiere pro, canva
 
 **Fun facts**
-- Been a music producer for 4 years
+- Been a music producer for 4.5 years
 - Played the tenor saxophone and now learning the electric guitar
 - I speak english, creole, and french (b1)
 - Hobbies: gym, movies, trying new things/meeting new people
