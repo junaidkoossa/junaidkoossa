@@ -6,13 +6,13 @@ I implement AI and data into GTM workflows to improve customer targeting, lead r
 
 With my background in business, data, and AI engineering, I want to bring technical execution to a marketing team at a fast-paced tech firm
 
-gtm & automation: clay, n8n, make, hubspot, rest apis
+**gtm & automation:** clay, n8n, make, hubspot, rest apis
 
-data & analytics: sql, python (pandas), posthog, ga4
+**data & analytics:** sql, python (pandas), posthog, ga4
 
-ai & development: openai/anthropic apis, cursor, git, javascript/python
+**ai & development:** openai/anthropic apis, cursor, git, javascript/python
 
-design & marketing: figma, photoshop, premiere pro, canva
+**design & marketing:** figma, photoshop, premiere pro, canva
 
 **Fun Facts**
 - Been a music producer for 4 years
