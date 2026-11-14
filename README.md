@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Junaid, a technical product marketer based in Toronto
+I'm Junaid, a new grad from Ivey Business School, and technical product marketer based in Toronto
 
 I implement AI and data into GTM workflows to improve customer targeting, lead response rates, and pipeline efficiency
 
