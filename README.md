@@ -4,7 +4,7 @@ I'm Junaid, a new grad from Ivey Business School, and technical product marketer
 
 I implement AI and data into GTM workflows to improve customer targeting, lead response rates, and pipeline efficiency
 
-With my background in business, data, and AI engineering, I want to bring technical execution to a marketing team at a fast-paced tech firm
+With my background in business, data, and AI, I want to bring technical execution to a marketing team at a fast-paced tech firm
 
 **GTM & automation:** clay, n8n, make, hubspot, rest apis
 
