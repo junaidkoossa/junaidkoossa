@@ -10,7 +10,7 @@ With my background in business, data, and AI, I want to bring technical executio
 
 **Data & analytics:** sql, python (pandas), posthog, ga4
 
-**AI & development:** openai/anthropic apis, cursor, git, javascript/python
+**AI & development:** openai/anthropic apis, cursor, gemini, ollama, git, javascript/python
 
 **Design & marketing:** figma, photoshop, premiere pro, canva
 
