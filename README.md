@@ -6,7 +6,7 @@ I implement AI and data into GTM workflows to improve customer targeting, lead r
 
 With my background in business, data, and AI, I want to bring technical execution to a marketing team at a fast-paced tech firm
 
-**GTM & automation:** clay, n8n, make, hubspot, rest apis
+**GTM & automation:** clay, n8n, hubspot, salesforce, rest apis
 
 **Data & analytics:** sql, python (pandas), posthog, ga4
 
